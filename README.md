@@ -8,5 +8,5 @@ HAFTA 1
 + JAVA Temelleri 1
 + Değişkenler, şart blokları, döngüler, diziler
 
-HAFTA 1
+HAFTA 2
 + Nesne yönelimli programlamaya giriş (OOP)
