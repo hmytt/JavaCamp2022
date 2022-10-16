@@ -10,3 +10,6 @@ HAFTA 1
 
 HAFTA 2
 + Nesne yönelimli programlamaya giriş (OOP)
+
+HAFTA 3
++ OOP - Class & Interface ile Sürdürülebilirlik
